@@ -7,7 +7,7 @@ In this lab we will be disabling task manager, shutdown, change password and acc
 
 <h2>No Power Options Available</h2>
 
-<img src="https://imgur.com/0qufYzo.png" height="80%" width="80%"/>
+<img src="https://imgur.com/SRZS1jH.png" height="80%" width="80%"/>
 
 <h2>Task Manager Disabled</h2>
 <img src="https://imgur.com/hGgoBmo.png" height="80%" width="80%"/>
